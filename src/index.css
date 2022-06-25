@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+}
+
+.normal{
+    color: white;
+}
+
+div{
+    text-align: center;
+}
+
+input{
+    margin: 5px;
+    background-color: cadetblue;
+    color: white;
+    font-size: medium;
+    font: bold;
+    text-transform: uppercase;
+    border-radius: 4px;
+    padding: 0.5rem;
+}
+
+input:hover{
+    color:cornflowerblue
+}
+
+.numeros{
+    color: red;
+}
